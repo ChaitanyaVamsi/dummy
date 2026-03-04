@@ -1,0 +1,3 @@
+[submodule "devops-mean-stack-app"]
+	path = devops-mean-stack-app
+	url = https://github.com/ChaitanyaVamsi/devops-mean-stack-app.git
